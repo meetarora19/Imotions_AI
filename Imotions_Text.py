@@ -116,7 +116,7 @@ demo = gr.Interface(
     fn=analyze_text,
     inputs=gr.Textbox(lines=3, placeholder="How are you feeling today?"),
     outputs="json",
-    title="Mental Health & Suicidal Ideation Detector",
+    title="Imotions",
     description="Detects possible suicidal ideation, provides sentiment indicator, safety note, and one supportive suggestion."
 )
 
