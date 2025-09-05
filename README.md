@@ -17,8 +17,8 @@ The goal is to integrate these into a unified **Mental Health AI Companion**, ca
 
 ## Tech Stack
 - **Languages:** Python  
-- **Frameworks & Libraries:** TensorFlow / PyTorch, OpenCV, Hugging Face Transformers, Librosa, Scikit-learn  
-- **Tools:** Jupyter Notebook, Google Colab, GitHub  
+- **Frameworks & Libraries:** TensorFlow / PyTorch, OpenCV, Hugging Face Transformers, Librosa, Scikit-learn, Gradio
+- **Tools:** Google Colab, GitHub  
 
 ---
 
