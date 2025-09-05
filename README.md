@@ -3,7 +3,7 @@
 # Imotions
 **AI-Powered Mental Health Companion**
 
-Imotions is a research-driven project exploring how Artificial Intelligence can detect and analyze human emotions across multiple modalities like **text, images, video, and audio**.  
+Imotions is a research-driven project exploring how Artificial Intelligence can detect and analyze human emotions across multiple modalities like **text, images and video**.  
 The goal is to integrate these into a unified **Mental Health AI Companion**, capable of providing insights into emotional well-being and supporting mental health awareness.
 
 ---
@@ -25,7 +25,6 @@ The goal is to integrate these into a unified **Mental Health AI Companion**, ca
 ## Roadmap
 - [x] Phase 1: NLP-based emotion recognition from text  
 - [x] Phase 2: Image & facial expression analysis  
-- [ ] Phase 3: Audio-based emotion recognition  
 - [ ] Phase 4: Video & multimodal fusion  
 - [ ] Phase 5: Unified companion framework  
 
