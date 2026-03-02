@@ -25,7 +25,7 @@ The goal is to integrate these into a unified **Mental Health AI Companion**, ca
 ## Roadmap
 - [x] Phase 1: NLP-based emotion recognition from text  
 - [x] Phase 2: Image & facial expression analysis  
-- [ ] Phase 4: Video & multimodal fusion  
+- [x] Phase 4: Video & multimodal fusion  
 - [ ] Phase 5: Unified companion framework  
 
 ---
