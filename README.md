@@ -1,5 +1,3 @@
-[![Status](https://img.shields.io/badge/status-in%20progress-yellow)]()  
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)]()  
 # Imotions
 **AI-Powered Mental Health Companion**
 
